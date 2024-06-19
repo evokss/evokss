@@ -17,7 +17,7 @@
 > If you're seeking a *proactive, analytical, and creative* person to elevate your project,<br>
 > I'm ready to contribute my experience and skills!
 
-> Let's collaborate and bring your ideas to life!
+> **Let's collaborate and bring your ideas to life!**
 
 </details>
 
