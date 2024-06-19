@@ -27,3 +27,20 @@
 * 💬 Ping me about: hackathons, tech communities, or collaborative coding projects
 * 💜 Outside of IT: pianist, voracious reader, singer, and artist
 * 😄 Committed to using technology to solve real-world problems and make a positive impact
+
+<h3 align="center">Recent self-made projects</h3>
+
+<h3>HTML/CSS + Bootsrap v.5</h3>
+<a href="https://github.com/evokss/MyYouTubeClone.github.io">My YouTube Clone</a>
+
+<h3>React</h3>
+<a href="https://github.com/evokss/ReactProjects">Airbnb Experience & React Facts</a>
+
+<h3>HTML/CSS</h3>
+<a href="https://github.com/evokss/GridFlexContainers">Flexbox & Grid</a>
+<a href="https://github.com/evokss/ImagesAndTextBoxes">Images & Text boxes</a>
+
+<h3>Vanilla JavaScript + HTML/CSS</h3>
+<a href="https://github.com/evokss/MyYouTubeClone.github.io">My YouTube Clone</a>
+
+
