@@ -28,7 +28,7 @@
 * 💜 Outside of IT: pianist, voracious reader, singer, and artist
 * 😄 Committed to using technology to solve real-world problems and make a positive impact
 
-<h3 align="center">Recent self-made projects</h3>
+<h3 align="center">GitHub Project Catalogue: Organized by Core Technologies</h3>
 
 <h3>HTML/CSS + Bootsrap v.5</h3>
 <a href="https://github.com/evokss/MyYouTubeClone.github.io">My YouTube Clone</a>
@@ -36,11 +36,15 @@
 <h3>React</h3>
 <a href="https://github.com/evokss/ReactProjects">Airbnb Experience & React Facts</a>
 
-<h3>HTML/CSS</h3>
-<a href="https://github.com/evokss/GridFlexContainers">Flexbox & Grid</a>
-<a href="https://github.com/evokss/ImagesAndTextBoxes">Images & Text boxes</a>
-
 <h3>Vanilla JavaScript + HTML/CSS</h3>
-<a href="https://github.com/evokss/MyYouTubeClone.github.io">My YouTube Clone</a>
+<a href="https://github.com/evokss/DOMProjects">DOM Manipulation</a><br>
+<a href="https://github.com/evokss/MyCalculator">IPhone Calculator</a><br>
+<a href="https://github.com/evokss/MyRockPaperScissors">Rock-Paper-Scissors game</a>
 
-
+<h3>HTML/CSS</h3>
+<a href="https://github.com/evokss/GridFlexContainers">Flexbox & Grid</a><br>
+<a href="https://github.com/evokss/ImagesAndTextBoxes">Images & Text boxes</a><br>
+<a href="https://github.com/evokss/DivContainers">DIV Containers</a><br>
+<a href="https://github.com/evokss/DisplayProperty">Display Property</a><br>
+<a href="https://github.com/evokss/TextStyles">Text Styles</a><br>
+<a href="https://github.com/evokss/Buttons">Buttons</a>
