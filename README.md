@@ -30,7 +30,7 @@
 
 <h3 align="center">GitHub Project Catalogue: Organized by Core Technologies</h3>
 
-<h3>HTML/CSS + Bootsrap v.5</h3>
+<h3>HTML/CSS + Bootsrap v5</h3>
 <a href="https://github.com/evokss/MyYouTubeClone.github.io">My YouTube Clone</a>
 
 <h3>React</h3>
