@@ -8,12 +8,12 @@
 > including serving as a Microsoft Student Partner, participating in and winning hackathons, undertaking internships, and <br>
 > continuously developing new projects to enhance my skills.<br>
 
-> I've been *consistently engaging in* freelance *web development projects*,<br>
+> I've been consistently engaging in freelance web development projects,<br>
 > further expanding my practical knowledge and fueling my love for crafting exceptional web experiences.<br>
 
 > These diverse experiences have honed my *problem-solving, teamwork, adaptability, and ability to stay updated with the latest technologies*.
 
-> I'm *always eager to take on new challenges*, which drives me to continuously learn and improve.<br>
+> I'm *always eager to take on new challenges*, which drives me to continuously learn and improve!<br>
 > If you're seeking a *proactive, analytical, and creative* person to elevate your project,<br>
 > I'm ready to contribute my experience and skills!
 
