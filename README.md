@@ -8,7 +8,7 @@
 <summary>My story</summary>
   
 > Throughout my academic journey and early career, I've actively worked on various projects and with exceptional teams,<br>
-> even served as a Microsoft Student Partner and participated in and won hackathons! <br>
+> even managed to serve as a Microsoft Student Partner and participate in and win hackathons! <br>
 
 > In my free time, I've been consistently engaging in open-source and freelance web development projects, <br>
 > further fueling my love for crafting exceptional web experiences and expanding my practical knowledge.<br>
