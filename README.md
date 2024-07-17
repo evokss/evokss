@@ -30,7 +30,7 @@
 * 💜 Outside of IT: pianist, voracious reader, singer, and artist
 * 😄 Committed to using technology to solve real-world problems and make a positive impact
 
-📫 How to reach me: [Telegram](https://t.me/evokss) (preferably), [Email](mailto:ekoss.prog@gmail.com)
+📫 How to reach me: [Telegram](https://t.me/evokss), [Email](mailto:ekoss.prog@gmail.com)
 
 <a href="https://www.linkedin.com/in/evakoss/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
