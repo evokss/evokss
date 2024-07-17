@@ -18,7 +18,7 @@
 > * I'm **always eager to take on new challenges**, which drives me to continuously learn and improve!<br>
 > If you're seeking a proactive, analytical, and creative person to elevate your project,<br>
 > I'm ready to contribute my experience and skills!
-
+> 
 > * **Let's collaborate and bring your ideas to life!**
 
 </details>
