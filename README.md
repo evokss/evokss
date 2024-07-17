@@ -7,19 +7,19 @@
 <details>
 <summary>My story</summary>
   
-> Throughout my academic journey and early career, I've actively worked on various projects and with exceptional teams,<br>
+> * Throughout my academic journey and early career, I've actively worked on various projects and with exceptional teams,<br>
 > even managed to serve as a Microsoft Student Partner and participate in and win hackathons! <br>
-
-> In my free time, I've been consistently engaging in open-source and freelance web development projects, <br>
+>
+> * In my free time, I've been consistently engaging in open-source and freelance web development projects, <br>
 > further fueling my love for crafting exceptional web experiences and expanding my practical knowledge.<br>
-
-> These diverse experiences have honed my **problem-solving, teamwork, adaptability, and ability to stay updated with the latest technologies**.
-
-> I'm **always eager to take on new challenges**, which drives me to continuously learn and improve!<br>
+>
+> * These diverse experiences have honed my **problem-solving, teamwork, adaptability, and ability to stay updated with the latest technologies**.
+>
+> * I'm **always eager to take on new challenges**, which drives me to continuously learn and improve!<br>
 > If you're seeking a proactive, analytical, and creative person to elevate your project,<br>
 > I'm ready to contribute my experience and skills!
 
-> **Let's collaborate and bring your ideas to life!**
+> * **Let's collaborate and bring your ideas to life!**
 
 </details>
 
