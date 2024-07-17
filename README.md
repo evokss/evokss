@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF0eXBzOXNtcHVmeW81enRqZXkxY3docmhiZ3RyNGY4dWh5aDN6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
+</div>
 <h1 align="center">Hi there 👋, I'm Eva</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
@@ -28,23 +31,19 @@
 * 💜 Outside of IT: pianist, voracious reader, singer, and artist
 * 😄 Committed to using technology to solve real-world problems and make a positive impact
 
-<h3 align="center">GitHub Project Catalogue: Organized by Core Technologies</h3>
+---
 
-<h3>HTML/CSS + Bootsrap v5</h3>
-<a href="https://github.com/evokss/MyYouTubeClone.github.io">My YouTube Clone</a>
-
-<h3>React</h3>
-<a href="https://github.com/evokss/ReactProjects">Airbnb Experience & React Facts</a>
-
-<h3>Vanilla JavaScript + HTML/CSS</h3>
-<a href="https://github.com/evokss/DOMProjects">DOM Manipulation</a><br>
-<a href="https://github.com/evokss/MyCalculator">IPhone Calculator</a><br>
-<a href="https://github.com/evokss/MyRockPaperScissors">Rock-Paper-Scissors game</a>
-
-<h3>HTML/CSS</h3>
-<a href="https://github.com/evokss/GridFlexContainers">Flexbox & Grid</a><br>
-<a href="https://github.com/evokss/ImagesAndTextBoxes">Images & Text boxes</a><br>
-<a href="https://github.com/evokss/DivContainers">DIV Containers</a><br>
-<a href="https://github.com/evokss/DisplayProperty">Display Property</a><br>
-<a href="https://github.com/evokss/TextStyles">Text Styles</a><br>
-<a href="https://github.com/evokss/Buttons">Buttons</a>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+</div>
