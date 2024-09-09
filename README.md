@@ -25,7 +25,7 @@
 
 * 🏢 Owner of a drive to continuously build and deliver captivating and user-friendly web applications
 * 🎓 A Computer Science graduate
-* 🌱I love working with React, Node.js, and TypeScript as my go-to tech stack
+* 🌱 I love working with React, Node.js, and TypeScript as my go-to tech stack
 * 💬 Ping me about: hackathons, tech communities, or collaborative coding projects
 * 💜 Outside of IT: pianist, voracious reader, singer, and artist
 * 😄 Committed to using technology to solve real-world problems and make a positive impact
