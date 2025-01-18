@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Eva</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<a href="https://portfolio-website-evokss.vercel.app/">Discover My Portfolio</a>
+<a href="https://portfolio-website-evokss.vercel.app/">Discover My Portfolio Website</a>
 
 <details>
 <summary>My story</summary>
