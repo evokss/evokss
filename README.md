@@ -4,11 +4,13 @@
 <h1 align="center">Hi there 👋, I'm Eva</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
+<a href="https://portfolio-website-evokss.vercel.app/">Discover My Portfolio</a>
+
 <details>
 <summary>My story</summary>
   
 > * Throughout my academic journey and early career, I've been actively working on various projects and with exceptional teams,<br>
-> even managed to serve as a Microsoft Student Partner and participate in and win several hackathons :) <br>
+> serve as a Microsoft Student Partner and participate in and win hackathons :) <br>
 >
 > * In my free time, I've been consistently engaging in open-source and freelance web development projects, <br>
 > further fueling my love for crafting exceptional web experiences and expanding my practical knowledge.<br>
