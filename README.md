@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDF0eXBzOXNtcHVmeW81enRqZXkxY3docmhiZ3RyNGY4dWh5aDN6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 <h1 align="center">Hi there 👋, I'm Eva</h1>
-<h3 align="center">A passionate Frontend Engineer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <a href="https://portfolio-website-evokss.vercel.app/">Discover My Portfolio Website</a>
 
