@@ -6,24 +6,6 @@
 
 <a href="https://portfolio-website-evokss.vercel.app/">Discover My Portfolio Website</a>
 
-<details>
-<summary>My story</summary>
-  
-> * Throughout my academic journey and early career, I've been actively working on various projects and with exceptional teams,<br>
-> serve as a Microsoft Student Partner and participate in and win hackathons :) <br>
->
-> * In my free time, I've been consistently engaging in open-source and freelance web development projects, <br>
-> further fueling my love for crafting exceptional web experiences and expanding my practical knowledge.<br>
->
-> * These diverse experiences have honed my **problem-solving, teamwork, adaptability, and ability to stay updated with the latest technologies**.
->
-> * I'm **always eager to take on new challenges**, which drives me to continuously learn and improve!<br>
->
-> * If you're seeking a proactive, analytical, and creative person to elevate your project,<br>
-> I'm ready to contribute all my experience and skills to achieve your goals!
-
-</details>
-
 * 🏢 Owner of a drive to continuously build and deliver captivating and user-friendly web applications
 * 🎓 A Computer Science graduate
 * 🌱 I love working with React, Node.js, and TypeScript as my go-to tech stack
