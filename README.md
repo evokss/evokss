@@ -10,7 +10,7 @@
 * 🎓 A Computer Science graduate
 * 🌱 I love working with React, Node.js, and TypeScript as my go-to tech stack
 * 💬 Ping me about: hackathons, tech communities, or collaborative coding projects
-* 💜 Outside of IT: pianist, voracious reader, singer, and artist
+* 💜 Outside of IT: enthusiast of sports and an active lifestyle, strategic board gamer, avid multilingual reader
 * 😄 Committed to using technology to solve real-world problems and make a positive impact
 
 📫 How to reach me: <br>
