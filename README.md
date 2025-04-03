@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋, I'm Eva</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<a href="https://portfolio-website-evokss.vercel.app/">My Portfolio Website</a>
+<a href="https://my-ts-portfolio-website.vercel.app/">My Portfolio Website</a>
 
 * 🏢 Owner of a drive to continuously build and deliver captivating and user-friendly web applications
 * 🎓 A Computer Science graduate
