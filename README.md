@@ -15,11 +15,11 @@
 
 📫 How to reach me: <br>
 
-<a href="https://t.me/evokss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="https://t.me/evkosse"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 <a href="mailto:ekoss.prog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 <a href="https://www.linkedin.com/in/evakoss/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
 
-![](https://raw.githubusercontent.com/evokss/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evokss&layout=compact&theme=transparent&hide_border=true&langs_count=10)
 
 ### :pushpin: My Current Stack:
 <div>
