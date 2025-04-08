@@ -19,7 +19,7 @@
 <a href="mailto:ekoss.prog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 <a href="https://www.linkedin.com/in/evakoss/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evokss&layout=compact&theme=transparent&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evokss&layout=compact&theme=transparent&hide_border=false&langs_count=10)
 
 ### :pushpin: My Current Stack:
 <div>
